@@ -7,11 +7,9 @@ It takes a list of audio file paths as input and saves the fixed files to the sa
 **Usage** <br/>
 To use this script, run the following command:
 
-<ul>
-<li>`python install mutagen`</li>
-<li>`python install pydub`</li>
-<li>`python fix_audio_duration.py`</li>
-</ul>
+`python install mutagen` <br/>
+`python install pydub` <br/>
+`python fix_audio_duration.py` <br/>
 
 
 **License** <br/>
